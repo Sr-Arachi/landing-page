@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    color: white;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+#link-bio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    background-color: aqua;
+    margin: 40px auto;
+    width: 150px;
+    height: 150px;
+    border: solid 1px;
+    border-radius: 60%; 
+}
+
+#titles{
+    
+}
